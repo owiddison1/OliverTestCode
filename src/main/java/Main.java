@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println(greeting.length());
 
-
+        System.out.println("Github test");
     }
+}
